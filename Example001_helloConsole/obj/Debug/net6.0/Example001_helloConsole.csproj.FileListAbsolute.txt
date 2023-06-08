@@ -1,0 +1,15 @@
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.exe
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.deps.json
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.runtimeconfig.json
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.dll
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.pdb
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.AssemblyReference.cache
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfoInputs.cache
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfo.cs
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.CoreCompileInputs.cache
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.dll
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\refint\Example001_helloConsole.dll
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.pdb
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.genruntimeconfig.cache
+D:\Артур\Учеба\1_четверть\Знакомство_с_программированием\Работы\1\Example001_helloConsole\obj\Debug\net6.0\ref\Example001_helloConsole.dll
